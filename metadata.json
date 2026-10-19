@@ -1,0 +1,6 @@
+{
+  "name": "Garde-robe durable",
+  "description": "Portez ce que vous avez déjà. Site vitrine et application interactive de garde-robe durable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
