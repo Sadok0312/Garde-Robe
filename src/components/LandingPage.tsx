@@ -427,7 +427,7 @@ export const LandingPage: React.FC = () => {
 
       {/* Minimal Footer */}
       <footer className="bg-[#2B2F2E] text-[#FAF8F3]/60 py-8 px-4 text-center text-xs border-t border-white/10">
-        <p className="mb-1 text-white font-medium">Garde-robe durable • Projet no-code Bubble</p>
+        <p className="mb-1 text-white font-medium">REWEAR • Garde-robe durable • Projet no-code Bubble</p>
         <p>Sadok Driss, Nour Arfaoui, Med Achref Saidi — Fait avec passion pour une mode plus sobre et circulaire.</p>
       </footer>
     </div>

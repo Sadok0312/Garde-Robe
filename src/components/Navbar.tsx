@@ -26,8 +26,8 @@ export const Navbar: React.FC = () => {
             <Sparkles className="w-5 h-5 text-[#8FA68E]" />
           </div>
           <div>
-            <span className="font-bold text-lg text-[#2B2F2E] tracking-tight block leading-tight">
-              Garde-robe durable
+            <span className="font-extrabold text-lg text-[#2B2F2E] tracking-wider block leading-tight">
+              REWEAR
             </span>
             <span className="text-[11px] text-[#4F6B52] font-medium block">
               Portez ce que vous avez déjà

@@ -38,7 +38,7 @@ export const BubbleGuideModal: React.FC = () => {
               Guide de mise en œuvre Bubble.io
             </h1>
             <p className="text-sm text-[#FAF8F3]/80 mt-1 max-w-2xl">
-              Projet « Garde-robe durable » conçu par Sadok Driss, Nour Arfaoui et Med Achref Saidi.
+              Projet « REWEAR » (Garde-robe durable) conçu par Sadok Driss, Nour Arfaoui et Med Achref Saidi.
               Ce guide détaille l'architecture sans code complète (base de données, workflows, privacy rules et UI).
             </p>
           </div>

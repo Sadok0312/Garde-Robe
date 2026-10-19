@@ -76,7 +76,7 @@ export const LoginModal: React.FC = () => {
             {mode === 'login' ? 'Connexion à votre espace' : 'Créer un compte'}
           </h2>
           <p className="text-xs text-gray-500 mt-1">
-            Garde-robe durable • Accédez à vos vêtements et vos statistiques
+            REWEAR • Accédez à vos vêtements et vos statistiques
           </p>
         </div>
 
